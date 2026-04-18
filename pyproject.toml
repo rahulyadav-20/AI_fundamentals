@@ -13,6 +13,7 @@ dependencies = [
     "google-genai>=1.72.0",
     "langchain>=1.2.15",
     "langchain-community>=0.4.1",
+    "langchain-experimental>=0.4.1",
     "langchain-openai>=1.1.12",
     "matplotlib>=3.10.8",
     "mediawikiapi>=1.3",
